@@ -1,2 +1,2 @@
 # locust_demo
-Demo of using locust
+Demo how to use locust
